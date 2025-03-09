@@ -1,2 +1,2 @@
-# Hospital_Emergency_Room_Dashboard
-I recently built a Hospital Emergency Room Dashboard in Power BI, providing a monthly view of key emergency room metrics. To enhance insights, we also developed a Consolidated View Dashboard with multiple data visualizations for better analysis and decision-making.
+# Bike_Sales_Dashboard
+I have created a Bike Sales Dashboard that provides insights into bike sales, including the total number of bikes sold, the types of customers purchasing them (such as young or old), and the regions where bikes are most frequently bought. This dashboard helps in analyzing sales trends and understanding customer demographics effectively.
